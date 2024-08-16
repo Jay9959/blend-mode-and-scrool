@@ -1,0 +1,54 @@
+*{
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+}
+.main{
+	width:100%;
+	height:100vh;
+	background-image:url('../img/1.avif'),linear-gradient(#ffa5004a,#d3d3d347,#6a5acd5c);
+	background-repeat:no-repeat;
+	background-size:cover;
+	background-position:center;
+	background-attachment:fixed;
+	background-blend-mode:lighten;
+}
+.main1{
+	width:100%;
+	height:100vh;
+	background-image:url('../img/2.jpg'),radial-gradient(#ffa5004a,#d3d3d347,#6a5acd5c);
+	background-repeat:no-repeat;
+	background-size:cover;
+	background-position:center;
+	background-attachment:fixed;
+	background-blend-mode:lighten;
+}
+.main2{
+	width:100%;
+	height:100vh;
+	background-image:url('../img/3.avif'),radial-gradient(#ffa5004a,#d3d3d347,#6a5acd5c);
+	background-repeat:no-repeat;                                                       
+	background-size:cover;                                                             
+	background-position:center;                                                        
+	background-attachment:fixed;                                                       
+	background-blend-mode:lighten;                                                     
+}                                                                                      
+.main3{                                                                                
+	width:100%;                                                                        
+	height:100vh;                                                                      
+	background-image:url('../img/4.avif'),radial-gradient(#ffa5004a,#d3d3d347,#6a5acd5c);
+	background-repeat:no-repeat;                                                       
+	background-size:cover;                                                             
+	background-position:center;                                                        
+	background-attachment:fixed;                                                       
+	background-blend-mode:lighten;                                                     
+}                                                                                     
+.main4{                                                                                
+	width:100%;                                                                        
+	height:100vh;                                                                      
+	background-image:url('../img/5.avif'),conic-gradient(#ff000014,#ffcdcd61,#2196f33d);
+	background-repeat:no-repeat;
+	background-size:cover;
+	background-position:center;
+	background-blend-mode:lighten;
+}
